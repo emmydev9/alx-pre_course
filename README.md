@@ -1,1 +1,2 @@
-Going strong
+Going strong.
+Edited on the Git interface.
